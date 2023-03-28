@@ -1,0 +1,15 @@
+C:\Users\cmsyo\Documents\Puntopasteles\bin\Debug\net7.0\Puntopasteles.exe
+C:\Users\cmsyo\Documents\Puntopasteles\bin\Debug\net7.0\Puntopasteles.deps.json
+C:\Users\cmsyo\Documents\Puntopasteles\bin\Debug\net7.0\Puntopasteles.runtimeconfig.json
+C:\Users\cmsyo\Documents\Puntopasteles\bin\Debug\net7.0\Puntopasteles.dll
+C:\Users\cmsyo\Documents\Puntopasteles\bin\Debug\net7.0\Puntopasteles.pdb
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.csproj.AssemblyReference.cache
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.AssemblyInfoInputs.cache
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.AssemblyInfo.cs
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.csproj.CoreCompileInputs.cache
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.dll
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\refint\Puntopasteles.dll
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.pdb
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\Puntopasteles.genruntimeconfig.cache
+C:\Users\cmsyo\Documents\Puntopasteles\obj\Debug\net7.0\ref\Puntopasteles.dll

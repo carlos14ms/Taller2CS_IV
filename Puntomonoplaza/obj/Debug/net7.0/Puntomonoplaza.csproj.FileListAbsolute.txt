@@ -1,0 +1,15 @@
+C:\Users\cmsyo\Documents\Puntomonoplaza\bin\Debug\net7.0\Puntomonoplaza.exe
+C:\Users\cmsyo\Documents\Puntomonoplaza\bin\Debug\net7.0\Puntomonoplaza.deps.json
+C:\Users\cmsyo\Documents\Puntomonoplaza\bin\Debug\net7.0\Puntomonoplaza.runtimeconfig.json
+C:\Users\cmsyo\Documents\Puntomonoplaza\bin\Debug\net7.0\Puntomonoplaza.dll
+C:\Users\cmsyo\Documents\Puntomonoplaza\bin\Debug\net7.0\Puntomonoplaza.pdb
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.csproj.AssemblyReference.cache
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.AssemblyInfoInputs.cache
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.AssemblyInfo.cs
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.csproj.CoreCompileInputs.cache
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.dll
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\refint\Puntomonoplaza.dll
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.pdb
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\Puntomonoplaza.genruntimeconfig.cache
+C:\Users\cmsyo\Documents\Puntomonoplaza\obj\Debug\net7.0\ref\Puntomonoplaza.dll
